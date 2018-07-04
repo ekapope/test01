@@ -1,2 +1,2 @@
 # test01
-testdesc
+this is a test script.
